@@ -1,5 +1,11 @@
-## Hi there 👋
-
+# asham007 profile README
+Hello everyone! Here are some fun facts about myself:
+## Favorite Game
+Super Metroid for the SNES. If you still haven't played it yet, consider doing yourself a favor and go play it.
+## Favorite Food
+Pizza. What more even needs to be said... except for pepporoni.
+## Favorite PL
+C. This may be a bit of a controversial pick today, but you can never go wrong with C as its a classic. If you need classes like in an OOPL, just use private structs.
 <!--
 **asham007/asham007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
